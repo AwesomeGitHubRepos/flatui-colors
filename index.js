@@ -4,7 +4,7 @@ var colorMap = {
   emerald: '#2ecc71',
   nephritis: '#27ae60',
   peter_river: '#3498db',
-  belize_hold: '#2980b9',
+  belize_hole: '#2980b9',
   amethyst: '#9b59b6',
   wisteria: '#8e44ad',
   wet_asphalt: '#34495e',
